@@ -10,7 +10,7 @@
 			"disableicontext": false,
 			"iconposition": 2,
 			"icontextcolor": 1,
-			"openonstart": false,
+			"openonstart": true,
 			"openonstartonlynewplayers": true,
 			"updateinterval": 12
 		},
