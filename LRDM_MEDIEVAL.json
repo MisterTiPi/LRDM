@@ -1,0 +1,64 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": true,
+			"hideiconafter": 5,
+			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
+			"disableicontext": false,
+			"iconposition": 2,
+			"icontextcolor": 1,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Bienvenue",
+				"imageurl": "https://i.imgur.com/YE6e4oa.jpeg",
+				"content": [
+					{
+						"title": "Bienvenue dans la Communauté des Rois du Monde",
+						"text": "<RichColor color=\"0,1,1,1\">Bienvenue sur Les Rois du Monde, une communauté unique née de la passion pour Ark, qui s'est construite grâce à l'engagement et à l'enthousiasme de ses membres depuis le 14 juillet 2021. </>\r\n\r\n<RichColor color=\"0,1,1,1\">À l'origine, ce serveur a vu le jour pour offrir à Bipbipx un espace dédié au streaming de The Island. Rapidement, des joueurs enthousiastes nous ont rejoints, et l'envie d'explorer davantage s'est imposée. Deux nouvelles maps, Ragnarok et Scorched Earth, sont venues enrichir l'expérience. Malgré les défis techniques, grâce à la générosité et à l'implication de notre communauté en pleine croissance, nous avons surmonté les obstacles pour améliorer nos serveurs.</>\r\n\r\n<RichColor color=\"0,1,1,1\">Depuis, notre aventure ne cesse de grandir : des nouvelles cartes, des joueurs toujours plus nombreux, et un cluster vivant et dynamique. Votre soutien a démontré à quel point cette communauté est exceptionnelle et soudée.</>\r\n\r\n<RichColor color=\"0,1,1,1\">Ici, chaque joueur a sa place et peut évoluer à son rythme, que vous soyez un tryharder, un buildeur fou, un tameur passionné, ou même un explorateur intrépide qui joue sans dinos (oui, cela existe !). Nous croyons fermement qu'il n'y a pas une seule façon de jouer, mais autant de styles que de joueurs. En mode PvE, votre aventure est la vôtre, libre et sans impact sur celle des autres.</>\r\n\r\n<RichColor color=\"0,1,1,1\">Nous sommes là pour vous accompagner et partager des conseils, mais surtout pour créer un environnement convivial et respectueux où chacun peut vivre sa propre histoire. Alors, bienvenue dans votre nouvelle aventure, bienvenue chez vous. </>\r\n\r\n\r\n\r\n<RichColor color=\"0,1,1,1\">L'histoire continue, et elle s'écrit avec vous !</>\r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Règlement",
+				"imageurl": "https://i.imgur.com/YE6e4oa.jpeg",
+				"content": [
+					{
+						"title": "Merci de lire et respecter les règles",
+						"text": "<RichColor color=\"0,1,1,1\">Règles Générales de Conduite</>\r\n\r\n- Environnement PVE: Toute forme de PVP (tentative de kill, noyade, vol, emprisonnement, grab de joueurs ou dinos ne vous appartenant pas, largage de dino agressif) est interdite et sera sévèrement sanctionnée.\r\n- Communication: Les messages à caractère raciste, diffamatoire, blasphématoire ou haineux sont interdits et entraînent un bannissement définitif.\r\n- Accès aux Bases: Il est interdit d'entrer dans une base sans l'accord du propriétaire.\r\n- Création de Tribu: Chaque joueur doit créer ou rejoindre une tribu pour permettre l'intervention des administrateurs en cas de problème.\r\n\r\n<RichColor color=\"0,1,1,1\">Règles sur les Bases et les Structures</>\r\n\r\n- Taille et Nombre de Bases: \r\n     * Une base principale par carte, proportionnelle à la taille de la tribu.\r\n     * Un seul enclos marin pour l'ensemble du cluster.\r\n     * Un avant-poste par carte de taille raisonnable (ne doit pas être une seconde base). Les plateformes d'arbre et les téléporteurs en dehors de la base sont considérés comme des avant-postes.\r\n- Structures Temporaires: Les cages de taming et autres structures temporaires doivent être démontées après usage. Des sanctions peuvent s'appliquer en cas d'abus.\r\n- Zones Interdites pour la Construction:  Ne pas bloquer les accès marins, plages, notes d’explorateurs, et grottes avec des loots ou artéfacts. Évitez de construire sur les lieux de spawn des joueurs ou sur les spots de mission, terminaux urbains, ou autres points de sortie de map.\r\n- Réservation d'Emplacement: Il est interdit de réserver un emplacement en utilisant des piliers, fondations, etc.\r\n\r\n<RichColor color=\"0,1,1,1\">Règles sur la Gestion des Ressources</>\r\n\r\n- Barrages et Œufs: Détruisez et videz complètement les barrages à castors après utilisation. Lors de la collecte d'œufs (wyvernes, rock drakes, deinos, magmasaure), consommez les œufs non désirés pour éviter de bloquer le respawn.\r\n-Extracteurs et Pompes: Les extracteurs de gaz et pompes à pétrole situés hors des bases doivent être déverrouillés et accessibles à tous.\r\n\r\n<RichColor color=\"0,1,1,1\">Règles Spécifiques aux Dinosaures</>\r\n\r\n- Comportement des Dinos: Les dinos en liberté ne doivent pas être réglés en mode agressif, sauf s'ils sont dans vos bases.\r\n- Abandon de Dinos: Les dinosaures et structures seront automatiquement détruits après 15 jours d'absence du joueur.\r\n-Vol d’Œufs: La collecte d'œufs ne vous appartenant pas est considérée comme du vol et sera sanctionnée.\r\n- Boss: Il est interdit de faire spawn un boss en dehors d'une arène\r\n\r\n<RichColor color=\"0,1,1,1\">Administration et Sécurité</>\r\n\r\n- Droits des Administrateurs: Les administrateurs peuvent entrer dans toute tribu sans avoir à fournir de justification.\r\n- Relocalisation des Bases: Lors du déplacement de votre base, posez un panneau visible pour informer les administrateurs. Ils vérifieront que tout a été retiré après votre départ.\r\n- Prévention: Soyez prudent lors du recrutement d'inconnus dans votre tribu. Déconnectez-vous dans un lit avec votre inventaire rangé en lieu sûr dans une base fermée..\r\n\r\n<RichColor color=\"0,1,1,1\">Règles sur les Crashes et Remboursements</>\r\n\r\n- Gestion des Crashes: En cas de crash du serveur, seuls les dinos (cluster vanilla : niveau 300 max / cluster moddé : sous réserve qu'il soit disponible) et le stuff des joueurs de niveau inférieur à 60 seront remboursés. Les demandes doivent être faites dans les 24 heures avec une preuve de niveau.\r\n- Pas de Remboursement: Aucun remboursement ne sera effectué pour les objets ou dinos perdus suite à une mort accidentelle ou à un bug de jeu.\r\n\r\n<RichColor color=\"0,1,1,1\">Conseils Généraux</>\r\n\r\n- Gifting: Il est déconseillé de donner des équipements, dinos ou structures d'un niveau inapproprié aux joueurs pour éviter de nuire à l'expérience de survie.\r\n- Connexion Sécurisée: Pensez à vous déconnecter dans un lit et à stocker vos objets dans un mannequin ou une armoire, dans une base fermée pour plus de sécurité."
+					},
+					{
+						"title": "JSON settings:",
+						"text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Rates",
+				"imageurl": "https://i.imgur.com/YE6e4oa.jpeg",
+				"content": [
+					{
+						"title": "La configuration du serveur",
+						"text": "- XP en X2\r\n- Harvest en X3\r\n- Taming Speed en X2\r\n- Food Drain en X2\r\n- Egg Hatch Speed en X10\r\n- Baby Mature Speed en X10\r\n- Cuddle Interval en X0.5\r\n- Imprint en X5\r\n- Passive Tame Interval en X0.5\r\n- Sauvegarde toutes les 10 minutes\r\n- Reboot à 6h (avec kill dino)"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Rejoignez-nous sur Discord",
+				"url": "https://discord.gg/VxVXv6t9DW"
+			}
+		],
+		"version": 2
+	}
+}
